@@ -1,3 +1,6 @@
+![Fitness_watch_data](https://github.com/Sohaib18-12/fitness_watch_data/assets/114408167/6d804843-d85a-42a3-9872-95f90c5f5367)
+
+
 # Fitness Watch Data Analysis
 Analyzing the data collected by fitness wearables or smartwatches to gain insights into users’s health and activity patterns. These devices track metrics like steps taken, energy burned, walking speed, and more.
 
